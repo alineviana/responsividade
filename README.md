@@ -4,8 +4,8 @@
 
 <br>
 
-<img src="./src/img/desktop.jpeg" width=450> 
-<img src="./src/img/mobile.jpeg" height=238>
+<img src="./imgs/desktop.jpeg" width=450> 
+<img src="./imgs/mobile.jpeg" height=238>
 
 [🔗 Clique aqui para acessar](https://alineviana.github.io/responsividade/)
 
